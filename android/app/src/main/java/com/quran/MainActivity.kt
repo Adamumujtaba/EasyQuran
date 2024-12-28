@@ -1,4 +1,4 @@
-package com.mujtaba.quran
+package com.adamu.mujtaba
 import android.os.Bundle;
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
