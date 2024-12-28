@@ -1,4 +1,4 @@
-package com.quran
+package com.mujtaba.quran
 
 import android.app.Application
 import com.facebook.react.PackageList
