@@ -426,8 +426,8 @@ const styles = StyleSheet.create({
   },
   verseNumber: {
     backgroundColor: DARK_COLOR,
-    minWidth: 22,
-    minHeight: 22,
+    minWidth: 26,
+    minHeight: 26,
     borderRadius: 100,
     alignItems: 'center',
     justifyContent: 'center',
